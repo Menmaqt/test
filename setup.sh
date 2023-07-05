@@ -194,7 +194,7 @@ echo -e "$green          Install UDP              $NC"
 echo -e "\e[33m-----------------------------------\033[0m"
 sleep 0.5
 clear
-wget https://raw.githubusercontent.com/Menmaqt/v4/main/udp/udp.sh && bash udp.sh
+wget https://raw.githubusercontent.com/Menmaqt/udpx/main/udp-custom.sh && bash udp-custom.sh
 clear
 
 cat> /root/.profile << END
